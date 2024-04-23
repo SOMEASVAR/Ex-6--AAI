@@ -77,7 +77,7 @@ if __name__ == '__main__':
     main()
 ```
 
-<H3>Output</H3>
+## Output:
 
 |Verb|Synonyms|
 |---|---|
