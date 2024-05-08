@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME: SOMEASVAR R</H3>
 <H3>ENTER YOUR REGISTER NO: 212221230103</H3>
 <H3>EX.NO.6</H3>
-<H3>DATE:</H3>
+<H3>DATE:24/04/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Semantic Analysis</H1>
 <H3>Aim:</H3> 
 <P>To perform Parts of speech identification and Synonym using Natural Language Processing (NLP) techniques. </P>
